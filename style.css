@@ -5,3 +5,27 @@
 .clock {
     margin-top: 100px
 }
+
+.card {
+    justify-content: center;
+    height: 15rem;
+    margin-top: 30%;
+}
+
+.card-time {
+    text-align: center;
+    align-content: center;
+    height: 70%;
+    background-color: black;
+    color: white;
+    padding: 60px;
+}
+
+.card-time h5 {
+    font-size: 3rem;
+}
+
+.card-body {
+    display: flex;
+    justify-content: space-between;
+}
