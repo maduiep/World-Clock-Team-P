@@ -2,14 +2,30 @@
     box-sizing: border-box;
 }
 
+.container-fluid{
+  padding: ;
+  align-items: center;
+  margin: auto;
+}
 .clock {
     margin-top: 100px
 }
+.col-sm-12{
+  /* justify-content: center; */
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
 
+  }
+  .col-md-6{
+    align-items: center;
+  }
 .card {
     justify-content: center;
     height: 15rem;
     margin-top: 30%;
+    margin: 0 1rem;
+    padding: 0;
 }
 
 .card-time {
