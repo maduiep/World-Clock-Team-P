@@ -1,0 +1,26 @@
+{
+  "name": "world-clock-team-p",
+  "version": "1.0.0",
+  "description": "This application allow users check the time of different cities in the world in real time.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeJapa-Team-P/World-Clock-Team-P.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeJapa-Team-P/World-Clock-Team-P/issues"
+  },
+  "homepage": "https://github.com/WeJapa-Team-P/World-Clock-Team-P#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
