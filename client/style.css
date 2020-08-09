@@ -3,7 +3,6 @@
 }
 
 .container-fluid{
-  padding: ;
   align-items: center;
   margin: auto;
 }
@@ -38,7 +37,7 @@
 }
 
 .card-time h5 {
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 .card-body {
